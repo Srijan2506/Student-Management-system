@@ -1,4 +1,4 @@
-package com.example.SpringBoot.Controller;
+package com.example.srijanshukla.SpringBoot.Controller;
 
 import java.util.HashMap;
 import java.util.List;
