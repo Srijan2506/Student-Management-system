@@ -1,4 +1,4 @@
-package com.example.SpringBoot.Repository;
+package com.example.srijanshukla.SpringBoot.Repository;
 
 
 
